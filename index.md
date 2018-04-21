@@ -1,3 +1,7 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+__このサイトはgithub learning で作成しているサイトです__
+
+## 注意事項
+* 特に何か書くつもりはないです、いまのところ
+* 練習後、何か書く気になったら記載していこうと思います
